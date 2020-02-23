@@ -19,5 +19,12 @@ border-radius: 10px;
  padding:5px
 }
 .card{
-    border:none;
+    padding:5%;
+border:none;
+box-shadow: 10px 10px 21px rgba(128, 128, 128, 0.075);
+}
+
+.decrase-width:hover{
+    text-decoration: none;
+    
 }
